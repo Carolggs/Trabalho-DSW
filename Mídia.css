@@ -1,0 +1,63 @@
+body{
+    background-color: #F0F0F0;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+
+ul{
+    font-size: 17px;
+}
+
+
+
+
+
+p{
+
+font-size: 22px;
+
+}
+
+
+#color:hover
+{
+        background:#616161;
+        color: rgb(255, 255, 255);
+}
+
+nav{
+    background-color: rgb(41, 39, 39);
+}
+
+footer{
+    background-color: rgb(41, 39, 39);
+}
+
+
+
+
+
+
+.link{
+    
+    color:black;
+    font-size: 25px;
+}
+
+
+#pé{
+    
+    background-color: rgb(41, 39, 39);
+    padding: 10px 0px;
+   
+}
+
+
+#tit{
+    
+    
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+

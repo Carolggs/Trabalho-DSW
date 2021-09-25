@@ -1,0 +1,62 @@
+body{
+    background-color: #F0F0F0;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+
+ul{
+    font-size: 17px;
+}
+
+
+
+nav{
+    background-color: rgb(41, 39, 39);
+}
+
+
+
+footer{
+    background-color: rgb(41, 39, 39);
+}
+
+
+
+#pé{
+    
+    background-color: rgb(41, 39, 39);
+    padding: 10px 0px;
+   
+}
+
+
+#tit{
+    
+    
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+
+figure{
+    padding-left: 380px;
+    
+    padding-bottom: 50px;
+    
+}
+
+
+#dev{
+    height: 400px;
+}
+
+.circle:hover
+{
+        border-radius:50%;
+}

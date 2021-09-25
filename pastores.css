@@ -1,0 +1,95 @@
+body{
+    background-color: #F0F0F0;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+
+ul{
+    font-size: 17px;
+}
+
+
+.container{
+   
+    
+
+    
+    
+    
+    
+
+
+    display: grid;
+    grid-template-columns: 1fr  ;
+
+
+}
+
+
+
+p{
+
+font-size: 25px;
+
+}
+
+
+
+
+nav{
+    background-color: rgb(41, 39, 39);
+}
+
+footer{
+    background-color: rgb(41, 39, 39);
+}
+
+
+.accordion{
+    font-size: 18px;
+    
+    color: rgb(0, 0, 0);
+}
+
+
+#past{
+    font-size: 20px;
+}
+
+
+#headingOne{
+    
+    background-color: rgb(117, 121, 121);
+}
+
+#headingTwo{
+    background-color:rgb(117, 121, 121) ;
+}
+
+
+#headingThree{
+    background-color: rgb(117, 121, 121);
+}
+
+
+.link{
+    
+    color:black;
+    font-size: 25px;
+}
+
+
+#pé{
+    
+    background-color: rgb(41, 39, 39);
+    padding: 10px 0px;
+   
+}
+
+#tit{
+    
+    
+    font-family:'Times New Roman', Times, serif;
+    font-size: 60px;
+}
